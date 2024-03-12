@@ -1,9 +1,5 @@
 <h1 align="center">Aaron Armstrong</h1>
 
-<div align="center">
-  <img height="200" src="./images/aaron.png"  />
-</div>
-
 <p align="center" style="font-size: 20px; padding-top: 10px">Hello World! 👋</p>
 
 <p align="center"style="font-size: 16px; padding-top: 10px">I'm Aaron Armstrong, a passionate newly qualified Frontend Developer based in London.  </p>
